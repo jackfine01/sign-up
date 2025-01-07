@@ -38,3 +38,23 @@ h1{
     opacity: 100%;
     color: white;
 }
+label, input{
+    display: flex;
+    flex-direction: column;
+}
+form{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+form > h2{
+    display: flex;
+    width: 100%;
+    text-align: left;
+    padding: 8px;
+}
+.formdiv{
+    height: 50px;
+    width: 30%;
+    padding: 8px;
+}
