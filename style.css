@@ -42,12 +42,12 @@ label, input{
     display: flex;
     flex-direction: column;
 }
-form{
+.formmain{
     background-color: white;
     display: flex;
     flex-wrap: wrap;
 }
-form > h2{
+.formmain > h2{
     display: flex;
     width: 100%;
     text-align: left;
@@ -67,4 +67,12 @@ form > h2{
     flex-direction: column;
     margin-top: 20%;
     padding: 4px;
+}
+#bottomarea{
+    display: flex;
+    align-items: center;
+    padding: 4px;
+    gap: 8px;
+    font-weight: bold;
+    font-size: 1em;
 }
