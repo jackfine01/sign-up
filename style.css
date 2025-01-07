@@ -58,3 +58,13 @@ form > h2{
     width: 30%;
     padding: 8px;
 }
+.top{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+#toparea{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    padding: 4px;
+}
