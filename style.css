@@ -88,7 +88,7 @@ input{
     color: white;
     background-color: green;
 }
-:invalid{
+input:invalid{
     border-width: 2px;
     border-color: red;
     border-style: dotted;
