@@ -76,3 +76,11 @@ label, input{
     font-weight: bold;
     font-size: 1em;
 }
+#submitbutton{
+    padding: 8px;
+    font-weight: bold;
+    margin: 4px;
+    margin-top: 8px;
+    color: white;
+    background-color: green;
+}
